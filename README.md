@@ -1,6 +1,6 @@
 # FinalProject
 
-**Title:** Tic Tac Toe Application
+**Title:** Tic Tac Toe Application made by Emir Abaskanov and Arystan Altynbayev
 #
 **Description:** This simple project will allow you to play legendary game Tic Tac Toe with your friend!
 #
